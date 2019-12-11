@@ -9,6 +9,7 @@ public class APLICACION1 {
                 System.out.println("P");
                 System.out.println("HOLA MUNDO");
                                 System.out.println("HOLA MUNDO33333");
+         System.out.println("HOLA");
 
     }
     
